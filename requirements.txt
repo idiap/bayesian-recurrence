@@ -1,0 +1,13 @@
+#
+# SPDX-FileCopyrightText: Copyright © 2022 Idiap Research Institute <contact@idiap.ch>
+#
+# SPDX-FileContributor: Alexandre Bittar <abittar@idiap.ch>
+#
+# SPDX-License-Identifier: BSD-3-clause
+#
+# This file is part of the bayesian-recurrence package
+#
+
+numpy==1.23.0
+torch==1.11.0
+typing_extensions==4.2.0
