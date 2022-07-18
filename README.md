@@ -19,15 +19,12 @@ and P. Garner,
 
 Contact: abittar@idiap.ch
 
-## Installation via PyPi
-
-Simply done with ``pip install bayesian-recurrence``
-
-## Installation with GitHub
+## Installation
 
     git clone https://github.com/idiap/bayesian-recurrence.git
     cd bayesian-recurrence
     pip install -r requirements.txt
+    python setup.py install
 
 ## Usage
 
@@ -38,7 +35,7 @@ One can then create networks of the desired Bayesian units and use them inside P
     import torch
     import torch.nn as nn
     
-    from bayesian_recurrence import uBRU, liBRU, sBRU
+    from bayesian_recurrence.libru import liBRU
 
     # Build input
     batch_size = 4
