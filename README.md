@@ -14,7 +14,7 @@ This repository contains the different Bayesian recurrent units (BRUs)
 implemented in PyTorch, that were defined in the following papers by A. Bittar
 and P. Garner,
 - [A Bayesian Interpretation of the Light Gated Recurrent Unit](https://rc.signalprocessingsociety.org/conferences/icassp-2021/SPSICASSP21VID0356.html?source=IBP), ICASSP 2021
-- Bayesian Recurrent Units and the Forward-Backward Algorithm, INTERSPEECH 2022.
+- [Bayesian Recurrent Units and the Forward-Backward Algorithm](https://arxiv.org/abs/2207.10486), INTERSPEECH 2022.
 
 
 Contact: abittar@idiap.ch
